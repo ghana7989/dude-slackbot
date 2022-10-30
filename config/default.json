@@ -1,0 +1,9 @@
+{
+	"mongoURI": "mongodb+srv://ghana:1234@cluster0.sqfgrtr.mongodb.net/?retryWrites=true&w=majority",
+	"SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/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",
+	"SLACK_BOT_TOKEN": "xoxb-4296706762740-4294159927059-0Po7pbE6cI7VztoSWGdsu0Fa",
+	"SLACK_SIGNING_SECRET": "82ad0ed04cafa20fbc9de0edadf96c9d",
+	"SLACK_CLIENT_SECRET": "1882d26fab9f0db6f5b4d445a44cec89",
+	"SLACK_APP_TOKEN": "xapp-1-A048K8VP47P-4294193971651-a450ea227ddb8ae0ab55de58be082891f58b14a8e0c10bdbe45ca24bc8c89c98",
+	"BOLT_APP_PORT": "3000"
+}
