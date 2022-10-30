@@ -78,12 +78,3 @@ export const recordHandler = async ({
 		resolve();
 	});
 };
-
-/**
- * demo list
- * 1. user can record
- * 2. user can record and also notify that they recorded an action
- * 3. user can fetch his/her tasks that he recorded past 24 hrs
- * 4. scrum master can fetch all tasks of given users, even multiple users
- * 5. data will be lost forever after 24 hrs
- */
